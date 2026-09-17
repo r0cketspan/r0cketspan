@@ -2,7 +2,7 @@
 
 **실시간 다국어 음성 처리 · 다국어 언어감지(LID) · 생성형 AI**
 
-<a href="https://dev-tier.vercel.app/LegSmith">
+<a href="https://dev-tier.vercel.app/r0cketspan">
   <img src="./assets/devtier.png" width="480" alt="DevTier Card" />
 </a>
 
@@ -126,9 +126,9 @@
 
 ---
 
-![snake gif](https://github.com/LegSmith/LegSmith/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/r0cketspan/r0cketspan/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="left">💻GitHub Analytics</h1>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LegSmith&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="LegSmith" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r0cketspan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="r0cketspan" />
 </p>
