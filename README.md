@@ -1,7 +1,7 @@
 # 🚀 AI Service Developer
 
-> **AI 모델을 실제 서비스로 만들어 납품 · 운영하는 AI 서비스 개발자입니다.**<br>
-> 음성인식 · LLM을 현장 데이터에 맞게 다듬고, 백엔드와 연계 시스템까지 직접 만들어 **실제로 돌아가는 서비스**로 완성합니다.
+> **AI 에이전트(Claude Code)를 활용해, AI 서비스가 결합된 솔루션을 만드는 개발자입니다.**<br>
+> 음성인식 · LLM 같은 AI 기능을 기존 시스템에 연계하고, 백엔드부터 운영까지 직접 구축해 **현장에서 실제로 돌아가는 솔루션**으로 납품합니다.
 
 [![Email](https://img.shields.io/badge/Email-choi.debugs.y@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:choi.debugs.y@gmail.com)
 
